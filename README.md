@@ -1,4 +1,4 @@
-Preparation 2 - Connecting RStudio and GitHub
+Preparation - Connecting RStudio and GitHub
 ================
 
 All of your work for STA 418/518 will be stored in GitHub. This activity
